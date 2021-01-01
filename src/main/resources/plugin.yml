@@ -1,0 +1,9 @@
+name: GUI
+version: ${project.version}
+main: second.gui.plugin.gui.GUI
+api-version: 1.16
+
+commands:
+  gui:
+    usage: /gui
+    description: open gui
